@@ -1,0 +1,9 @@
+System Information
+==================
+Hostname: DESKTOP-HB5L4TJ
+Date: Fri Mar 13 13:08:07 IST 2026
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  119G  110G  9.0G  93% /
+D:                    916G  388G  529G  43% /d
+E:                     15G   13G  1.8G  89% /e
